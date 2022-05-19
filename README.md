@@ -1,9 +1,13 @@
 ## Hu Taiyuan
 1. Research Bioinformatics Engineer. Department of Scientific Research Project, ChosenMed Technology (Beijing) Co., Ltd, Beijing, China.
 2. Prospective graduate student. School of computer science and technology, University of Chinese Academy of Sciences, Beijing, China.
+
+
 ### Research Areas
 1. My major is computer software and theory.
 2. My research is focused on H&E pathological section detection based on DEEP LEARNING.
+
+
 
 ### Education
 
