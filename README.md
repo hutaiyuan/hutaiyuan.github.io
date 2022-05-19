@@ -7,7 +7,7 @@
 
 ### Research Areas
 
-1. My major is **computer software and theory**.
+1. My major is **Computer Software and Theory**.
 
 2. My research is focused on H&E pathological section detection based on **DEEP LEARNING**.
 
