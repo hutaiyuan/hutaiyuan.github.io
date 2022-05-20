@@ -1,4 +1,4 @@
-# Hu Taiyuan
+# Taiyuan Hu
 
 1. **Research Bioinformatics Engineer**. Department of Scientific Research Project, ChosenMed Technology (Beijing) Co., Ltd, Beijing, China.
 
