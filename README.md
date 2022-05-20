@@ -2,7 +2,7 @@
 
 1. **Research Bioinformatics Engineer**. Department of Scientific Research Project, ChosenMed Technology (Beijing) Co., Ltd, Beijing, China.
 
-2. **Prospective graduate student**. School of computer science and technology, University of Chinese Academy of Sciences, Beijing, China.
+2. **Prospective Graduate Student**. School of computer science and technology, University of Chinese Academy of Sciences, Beijing, China.
 
 
 ### Research Areas
