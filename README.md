@@ -9,10 +9,9 @@
 
 - My major is **Computer Software and Theory**.
 
-- My research is focused on H&E **pathological section detection** based on *DEEP LEARNING* recently.
+- My research is focused on H&E **Pathological Section Detection** based on *DEEP LEARNING* recently.
 
-- The fields of work I have done include **Software System Development, Smart Devices and Hardware, Image and Voice Information Processing and Recognition, Data Processing and Analysis**, etc.
-
+- The fields of work I have done include **Software System Development, Smart Devices and Hardware Design, Image and Voice Information Processing and Recognition, Data Processing and Analysis**, etc.
 
 - I am interested in **Computer Theory, Artificial Intelligence, Machine Learning and Deep Learning** related technologies.
 
@@ -31,17 +30,17 @@
 
 #### Patents
 - A Device for Collecting and Monitoring Tobacco Growth Data, **utility model patents**, *China National lntellectual Property Administration*, 2022, CN202122663537.4.
-- A Fruit Picking Device based on Artificial Intelligence, **invention patents**, *China National lntellectual Property Administration*, 2021, CN20211286807.2.
+- A Fruit Picking Device Based on Artificial Intelligence, **invention patents**, *China National lntellectual Property Administration*, 2021, CN20211286807.2.
 
 #### Software Copyright
-- Artificial intelligence-based Classroom Analysis System, *China National lntellectual Property Administration*, 2020, 2020SR0905986.
-- Intelligent Advertising Recommendation System based on deep learning, *China National lntellectual Property Administration*, 2020, 2020SR0914585.
+- Artificial intelligence-Based Classroom Analysis System, *China National lntellectual Property Administration*, 2020, 2020SR0905986.
+- Intelligent Advertising Recommendation System Based on Deep Learning, *China National lntellectual Property Administration*, 2020, 2020SR0914585.
 - Artificial Intelligence-Based Agricultural Action Recognition System, *China National lntellectual Property Administration*, 2021, 2021SR1769864.
-- Deep Learning based Text Filtering System, *China National lntellectual Property Administration*, 2021, 2021SR1893160.
+- Deep Learning Based Text Filtering System, *China National lntellectual Property Administration*, 2021, 2021SR1893160.
 - Agricultural Futures Price Analysis System, *China National lntellectual Property Administration*, 2021, 2021SR1893161.
 - Agricultural Product Data Visualization System, *China National lntellectual Property Administration*, 2021, 2021SR1797603.
 - Production Data Service System of Sweet and Coke-Flavored Tobacco in Shandong Province, *China National lntellectual Property Administration*, 2021, 2021SR1913164.
-- Artificial Intelligence-based Conference Voice Service System, *China National lntellectual Property Administration*, 2022, 2022SR0086953.
+- Artificial Intelligence-Based Conference Voice Service System, *China National lntellectual Property Administration*, 2022, 2022SR0086953.
 
 
 ### Projects
@@ -52,7 +51,7 @@
 ### Honors and Awards
 #### Honors
 - **Outstanding University Students** in Shandong Province, Shandong Provincial Department of Education, 2021.
-- **Outstanding graduates** in Shandong Province, Shandong Provincial Department of Education, 2022.
+- **Outstanding Graduates** in Shandong Province, Shandong Provincial Department of Education, 2022.
 - **Top 100 Best College Students**, Shandong Agricultural University, 2020.
 
 #### Awards
