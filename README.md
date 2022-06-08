@@ -1,6 +1,6 @@
 # Taiyuan Hu
 
-1. **Research Bioinformatics Engineer**. Department of Scientific Research Project, ChosenMed Technology (Beijing) Co., Ltd, Beijing, China.
+1. **Intern Research Bioinformatics Engineer**. Department of Scientific Research Project, ChosenMed Technology (Beijing) Co., Ltd, Beijing, China.
 
 2. **Prospective Graduate Student**. School of computer science and technology, University of Chinese Academy of Sciences, Beijing, China.
 
@@ -15,13 +15,13 @@
 
 ### Education
 
-1. Studying for M.D.master in Computer Software and Theory, Super Computing Center, Chinese Academy of Sciences, Beijing, China. Advisor: Professor Beifang Niu
+1. Studying for a Master's degree in Computer Software and Theory, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China. Advisor: Professor Beifang Niu
 
-2. S.B. in Computer Science, Shandong Agriculture University, Shandong, China.
+2. Bachelor Of Computer Sciences and Technology, Shandong Agriculture University, Shandong, China.
 
 
 ### Contact
 
 1. Email: taiyuanhu@chosenmedtech.com
 
-2. Adress: ChosenMed Technology (Beijing) Co., Ltd, C3-1, Jinghai Industrial Park, No. 156 Jinghai Fourth Road, Tongzhou District, Beijing
+2. Adress: ChosenMed Technology (Beijing) Co., Ltd, C3-1, Jinghai Industrial Park, No.156 Jinghai Fourth Road, Tongzhou District, Beijing, China.
