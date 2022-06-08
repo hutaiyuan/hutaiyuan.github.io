@@ -17,7 +17,7 @@
 
 1. Studying for a Master's degree in Computer Software and Theory, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China. Advisor: Professor Beifang Niu
 
-2. Bachelor Of Computer Sciences and Technology, Shandong Agriculture University, Shandong, China.
+2. Bachelor of Computer Sciences and Technology, Shandong Agriculture University, Shandong, China.
 
 
 ### Contact
