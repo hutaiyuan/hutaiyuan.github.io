@@ -33,14 +33,15 @@
 - A Fruit Picking Device Based on Artificial Intelligence, **invention patents**, *China National lntellectual Property Administration*, 2021, CN20211286807.2.
 
 #### Software Copyright
-- Artificial intelligence-Based Classroom Analysis System, *China National lntellectual Property Administration*, 2020, 2020SR0905986.
-- Intelligent Advertising Recommendation System Based on Deep Learning, *China National lntellectual Property Administration*, 2020, 2020SR0914585.
+
+- Artificial Intelligence-Based Conference Voice Service System, *China National lntellectual Property Administration*, 2022, 2022SR0086953.
+- Agricultural Product Data Visualization System, *China National lntellectual Property Administration*, 2021, 2021SR1797603.
+- Production Data Service System of Sweet and Coke-Flavored Tobacco in Shandong Province, *China National lntellectual Property Administration*, 2021, 2021SR1913164.
 - Artificial Intelligence-Based Agricultural Action Recognition System, *China National lntellectual Property Administration*, 2021, 2021SR1769864.
 - Deep Learning Based Text Filtering System, *China National lntellectual Property Administration*, 2021, 2021SR1893160.
 - Agricultural Futures Price Analysis System, *China National lntellectual Property Administration*, 2021, 2021SR1893161.
-- Agricultural Product Data Visualization System, *China National lntellectual Property Administration*, 2021, 2021SR1797603.
-- Production Data Service System of Sweet and Coke-Flavored Tobacco in Shandong Province, *China National lntellectual Property Administration*, 2021, 2021SR1913164.
-- Artificial Intelligence-Based Conference Voice Service System, *China National lntellectual Property Administration*, 2022, 2022SR0086953.
+- Artificial intelligence-Based Classroom Analysis System, *China National lntellectual Property Administration*, 2020, 2020SR0905986.
+- Intelligent Advertising Recommendation System Based on Deep Learning, *China National lntellectual Property Administration*, 2020, 2020SR0914585.
 
 
 ### Projects
@@ -50,11 +51,13 @@
 
 ### Honors and Awards
 #### Honors
-- **Outstanding University Students** in Shandong Province, Shandong Provincial Department of Education, 2021.
 - **Outstanding Graduates** in Shandong Province, Shandong Provincial Department of Education, 2022.
+- **Outstanding University Students** in Shandong Province, Shandong Provincial Department of Education, 2021.
 - **Top 100 Best College Students**, Shandong Agricultural University, 2020.
 
 #### Awards
+
+Undergraduate Awards：
 - **Honourable Metion**, ShuWei Cup Mathematical Contest in Modeling, 2020.
 - **National Silver Award**, The 2nd China Collegiate Algorithm Design & Programming Challenge Contest Autumn Competition, 2020.
 - **National Bronze Award**, The 7th China International "Internet +" College Students Innovation and Entrepreneurship competition, 2021.
@@ -65,6 +68,7 @@
 - **Provincial First Prize**, The 11th Shandong College Students Physics Competition, 2019.
 - **Provincial Second Prize**, Shandong Division of the 11th Lanqiao Cup National Software and Information Technology Professionals Competition, 2020.
 - **Provincial Second Prize**, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.
+
 
 
 ### Education
