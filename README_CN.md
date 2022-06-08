@@ -1,86 +1,84 @@
-# Taiyuan Hu
+# 胡泰源
+###### [English Version](hutaiyuan.github.io)
 
-- **Intern Research Bioinformatics Engineer**. Department of Scientific Research Project, ChosenMed Technology (Beijing) Co., Ltd, Beijing, China.
+- **科研生信工程师**（实习），求臻医学（北京）科技有限公司科研项目部
 
-- **Prospective Graduate Student**. School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing, China.
+- **研究生**（准），中国科学院大学计算机科学与技术学院
 
 
-### Research Areas
+### 研究领域
 
-- My major is **Computer Software and Theory**.
+- 专业是**计算机软件与理论**。
 
-- My research is focused on H&E **Pathological Section Detection** based on *DEEP LEARNING* recently.
+- 最近的研究重点是基于*深度学习*的H&E**病理切片检测**。
 
-- The fields of work I have done include **Software System Development, Smart Devices and Hardware Design, Image and Voice Information Processing and Recognition, Data Processing and Analysis**, etc.
+- 从事的工作领域包括**软件系统开发、智能设备与硬件设计、图像与语音信息处理与识别、数据处理与分析**等。
 
-- I am interested in **Computer Theory, Artificial Intelligence, Machine Learning and Deep Learning** related technologies.
+- 对**计算机理论、人工智能、机器学习和深度学习**相关技术感兴趣。
 
-### Publications
+### 出版物
 
-#### Papers
+#### 论文
 - A Job-Shop Scheduling Method Based on Ant Colony Algorithm, *2021 IEEE International Conference on Progress in Informatics and Computing (PIC-2021)*, 2021, 89-075.
 - Research on Hierarchical Clustering Undersampling and Random Forest Fusion Classification Method, *2021 IEEE International Conference on Progress in Informatics and Computing (PIC-2021)*, 2021, 10-079.
 
 
-#### Books
-- National Agricultural Science and Technology Park Innovation Capability Evaluation Report, *Science and Technology Literature Publishing House*, 2020, ISBN 978-7-5189-744-36.
-- Annual Report on Innovation Capability of National Agricultural Science and Technology Parks, 2020.
-- National Agricultural Science and Technology Park Innovation Capability Monitoring Report, 2020.
+#### 著作
+- 国家农业科技园创新能力评价报告，科技文献出版社，2020，ISBN 978-7-5189-744-36
+- 国家农业科技园区创新能力年度报告，2020
+- 国家农业科技园区创新能力监测报告，2020
+
+#### 专利
+- 一种烟草生长数据采集与监测装置，实用新型专利，国家知识产权局，2022，CN202122663537.4
+- 一种基于人工智能的落果捡拾装置，发明专利，国家知识产权局，2021，CN20211286807.2
+
+#### 软件著作权
+- 基于人工智能的会议语音服务系统，国家知识产权局，2022，2022SR0086953
+- 国家知识产权局农产品数据可视化系统，2021，2021SR1797603
+- 山东省蜜甜焦香型烟叶生产数据服务系统，国家知识产权局，2021，2021SR1913164
+- 基于人工智能的农业行为识别系统，国家知识产权局，2021，2021SR1769864
+- 基于深度学习的文本过滤系统，国家知识产权局，2021，2021SR1893160
+- 农产品期货价格分析系统，国家知识产权局，2021，2021SR1893161
+- 基于人工智能的课堂分析系统，国家知识产权局，2020，2020SR0905986
+- 基于深度学习的智能广告推荐系统，国家知识产权局，2020，2020SR0914585
 
 
-#### Patents
-- A Device for Collecting and Monitoring Tobacco Growth Data, **utility model patents**, *China National lntellectual Property Administration*, 2022, CN202122663537.4.
-- A Fruit Picking Device Based on Artificial Intelligence, **invention patents**, *China National lntellectual Property Administration*, 2021, CN20211286807.2.
-
-#### Software Copyrights
-
-- Artificial Intelligence-Based Conference Voice Service System, *China National lntellectual Property Administration*, 2022, 2022SR0086953.
-- Agricultural Product Data Visualization System, *China National lntellectual Property Administration*, 2021, 2021SR1797603.
-- Production Data Service System of Sweet and Coke-Flavored Tobacco in Shandong Province, *China National lntellectual Property Administration*, 2021, 2021SR1913164.
-- Artificial Intelligence-Based Agricultural Action Recognition System, *China National lntellectual Property Administration*, 2021, 2021SR1769864.
-- Deep Learning Based Text Filtering System, *China National lntellectual Property Administration*, 2021, 2021SR1893160.
-- Agricultural Futures Price Analysis System, *China National lntellectual Property Administration*, 2021, 2021SR1893161.
-- Artificial intelligence-Based Classroom Analysis System, *China National lntellectual Property Administration*, 2020, 2020SR0905986.
-- Intelligent Advertising Recommendation System Based on Deep Learning, *China National lntellectual Property Administration*, 2020, 2020SR0914585.
+### 项目
+- 国家农业科技园区创新能力评价数据整理分析与模型构建，国家科技部重点项目，2019-2021
+- 山东省蜜甜焦香型烟叶生产数据库构建及应用研究，中国烟草总公司山东省公司科技重大专项和重点项目，2019-2021
 
 
-### Projects
-- Data Arrangement, Analysis and Model Construction of Innovation Capability Evaluation of National Agricultural Science and Technology Parks, key projects of the *Ministry of Science and Technology of China*, 2019-2021.
-- Construction and Application of the Production Database of Sweet and Coke Flavored Tobacco in Shandong Province, major scientific and technological projects and key projects of *China National Tobacco Corporation Shandong Province Company*, 2019-2021.
+### 荣誉与奖项
+#### 荣誉
+- 山东省**优秀毕业生**，山东省教育厅，2022
+- 山东省**优秀学生**，山东省教育厅，2021
+- **百优大学生**，山东农业大学，2020
 
+#### 奖项
 
-### Honors and Awards
-#### Honors
-- **Outstanding Graduates** in Shandong Province, Shandong Provincial Department of Education, 2022.
-- **Outstanding University Students** in Shandong Province, Shandong Provincial Department of Education, 2021.
-- **Top 100 Best College Students**, Shandong Agricultural University, 2020.
-
-#### Awards
-
-Undergraduate Awards：
-- **Honourable Metion**, ShuWei Cup Mathematical Contest in Modeling, 2020.
-- **National Silver Award**, The 2nd China Collegiate Algorithm Design & Programming Challenge Contest Autumn Competition, 2020.
-- **National Bronze Award**, The 7th China International "Internet +" College Students Innovation and Entrepreneurship competition, 2021.
-- **National Bronze Award**, The 14th International Contest of innovAtioN (iCAN) China Finals, 2020.
-- **Provincial Government Scholarship**, Shandong Provincial Government Scholarship, 2021.
-- **Provincial Gold Award**, The 7th Shandong "Internet +" College Students Innovation and Entrepreneurship Competition, 2021.
-- **Provincial First Prize**, The 3rd Shandong University Student Artificial Intelligence Competition, 2020.
-- **Provincial First Prize**, The 11th Shandong College Students Physics Competition, 2019.
-- **Provincial Second Prize**, Shandong Division of the 11th Lanqiao Cup National Software and Information Technology Professionals Competition, 2020.
-- **Provincial Second Prize**, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.
-
-
-
-### Education
-
-- Studying for a Master's degree in **Computer Software and Theory**, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China. Advisor: Professor Beifang Niu
-
-- Bachelor of **Computer Sciences and Technology**, Shandong Agricultural University, Shandong, China.
+本科奖项：
+- **国家级二等奖**，数维杯数学建模竞赛，2020
+- **国家级银奖**，第二届中国大学生算法设计与编程挑战赛秋季赛，2020
+- **国家级铜奖**，第七届中国国际“互联网+”大学生创新创业大赛，2021
+- **国家级铜奖**，第十四届国际创新大赛（iCAN）中国区总决赛，2020
+- **省级政府奖学金**，山东省政府奖学金，2021
+- **省级金奖**，第七届山东省“互联网+”大学生创新创业大赛，2021
+- **省级一等奖**，第三届山东省大学生人工智能大赛，2020
+- **省级一等奖**，第十一届届山东省大学生物理竞赛，2019
+- **省级二等奖**，第十一届蓝桥杯全国软件和信息技术专业人才大赛山东赛区，2020
+- **省级二等奖**，全国大学生数学建模竞赛，2020
 
 
 
-### Contact
+### 教育
+
+- 计算机软件与理论在读硕士，中国科学院计算机网络信息中心，导师：牛北方教授
+
+- 计算机科学与技术学士，山东农业大学
+
+
+### 联系
 
 - Email: taiyuanhu@chosenmedtech.com
 
-- Adress: ChosenMed Technology (Beijing) Co., Ltd, C3-1, Jinghai Industrial Park, No.156 Jinghai Fourth Road, Tongzhou District, Beijing, China.
+- 地址：北京市通州区经海四路156号经海产业园C3-1求臻医学（北京）科技有限公司
