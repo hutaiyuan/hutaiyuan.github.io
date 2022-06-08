@@ -32,7 +32,7 @@
 - A Device for Collecting and Monitoring Tobacco Growth Data, **utility model patents**, *China National lntellectual Property Administration*, 2022, CN202122663537.4.
 - A Fruit Picking Device Based on Artificial Intelligence, **invention patents**, *China National lntellectual Property Administration*, 2021, CN20211286807.2.
 
-#### Software Copyright
+#### Software Copyrights
 
 - Artificial Intelligence-Based Conference Voice Service System, *China National lntellectual Property Administration*, 2022, 2022SR0086953.
 - Agricultural Product Data Visualization System, *China National lntellectual Property Administration*, 2021, 2021SR1797603.
