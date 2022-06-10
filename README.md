@@ -95,11 +95,11 @@ Undergraduate Awards：
 
 ### Education
 
-- Studying for a Master's degree in **Computer Software and Theory**, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China. Advisor: Professor Beifang Niu
+- Studying for a Master's degree in **Computer Software and Theory**, Computer Network Information Center, Chinese Academy of Sciences, Beijing, China. 
+  - Advisor: Professor Beifang Niu & Yangde Feng
 
 - Bachelor of **Computer Sciences and Technology**, Shandong Agricultural University, Shandong, China.
-
-
+  - GPA: **4.38**, Rank: **1**/135
 
 ### Contact
 
