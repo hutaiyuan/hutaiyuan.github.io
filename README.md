@@ -1,5 +1,5 @@
 # Taiyuan Hu 
-[Chinese Version](https://hutaiyuan.github.io/cv_cn.html)
+[Chinese Version](https://hutaiyuan.github.io/zh-cn.html)
 
 - **Intern Research Bioinformatics Engineer**. Department of Scientific Research Project, ChosenMed Technology (Beijing) Co., Ltd, Beijing, China.
 
